@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 58152c7556fb8ee40b07605379df3fe6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharaSheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3856fb83b2cdfd04ea4490dd991ff37d
+      internalID: 110766611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 95.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086d8979e0db3c64185fcf6e8863f5f0
+      internalID: -1007261373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 95.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0eb8a07691c404780bbbdae5eea4a9
+      internalID: -578018228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22df10c207dc0c745b2f3b10d40b6b05
+      internalID: -1047413178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 95.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbb40b5a7061104ab44bc53e8c30443
+      internalID: 90669419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7c470637936cd42ab89aeb55415fa3
+      internalID: 1372689393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb8a4321511e334da150137b707e774
+      internalID: -516795791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad4fe01900159341b7e6376bad8492e
+      internalID: -587663854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4756bd96ddd1b47b7eedfaa9332bc7
+      internalID: -1009537655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7846f0d165197e449b253af9831a4e2
+      internalID: -777615915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6705c8c2ea6960548b31911547760d4b
+      internalID: -2121862916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a043cc71224166340916ac5ca340c79b
+      internalID: -1797620022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294593b6a8f987d49977e6f8bbe84265
+      internalID: -503823458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9e31a79cdb4ef429a0648647c375f9
+      internalID: 861890741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f801b1bfc610540b5fcef149705716
+      internalID: 1873282354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ac3fdd4222d384a86dedea1f378256
+      internalID: -1095154405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fccbc667ce53ee42b5a26d7ceed74fb
+      internalID: -1253008895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8220b9f6225a5b4499d63b2df9be990
+      internalID: 880847126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9147b013a5e467949b718a7112854d2f
+      internalID: -1349697021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharaSheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2.25
+        width: 32.2
+        height: 31.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7926e48f16d65f346a4c05dde92e079e
+      internalID: 1005387914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CharaSheet 1_0: 110766611
+      CharaSheet 1_1: -1007261373
+      CharaSheet 1_10: -2121862916
+      CharaSheet 1_11: -1797620022
+      CharaSheet 1_12: -503823458
+      CharaSheet 1_13: 861890741
+      CharaSheet 1_14: 1873282354
+      CharaSheet 1_15: -1095154405
+      CharaSheet 1_16: -1253008895
+      CharaSheet 1_17: 880847126
+      CharaSheet 1_18: -1349697021
+      CharaSheet 1_19: 1005387914
+      CharaSheet 1_2: -578018228
+      CharaSheet 1_3: -1047413178
+      CharaSheet 1_4: 90669419
+      CharaSheet 1_5: 1372689393
+      CharaSheet 1_6: -516795791
+      CharaSheet 1_7: -587663854
+      CharaSheet 1_8: -1009537655
+      CharaSheet 1_9: -777615915
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
